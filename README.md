@@ -1,4 +1,4 @@
-# Chan Zhen Yue's Technical Assessment for AIAP
+# House Price Predictor for Sindian District
 This project is a part of the evaluation of my application to AIAP.
 
 ### Project Status: [Completed]
