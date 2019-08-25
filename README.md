@@ -4,7 +4,7 @@ This project is a part of the evaluation of my application to AIAP.
 ### Project Status: [Completed]
 
 ### Project Objective
-The study is on a market historical of real estate valuation collected from Sindian district, New Taipei City, Taiwan. Dataset is crawled from `https://aisgaiap.blob.core.windows.net/aiap4-assessment/real_estate.csv`.
+The study is on a market historical of real estate valuation collected from Sindian district, New Taipei City, Taiwan. Dataset is crawled from [Here](https://aisgaiap.blob.core.windows.net/aiap4-assessment/real_estate.csv).
 
 ### Environment Prerequisites
 `Python3`, `pip3` & `curl` packages are required. To install, type the following in terminal:
@@ -39,7 +39,7 @@ Which model do you want to use? [1] Linear Regression, [2] Random Forest
 ```
 
 ### Exploratory Data Analysis
-Detailed explanation can be found in eda.ipynb.
+Detailed explanation can be found in the [IPython File](https://github.com/zhenyu92/ML_Random_Forest_House_Price_Predictor/blob/master/eda.ipynb).
 - 1 Importing relevant libraries
 - 2 Loading raw data
 - 3 Preprocessing
@@ -63,6 +63,3 @@ Detailed explanation can be found in eda.ipynb.
     * 6.2 Test with RF regressor
         + 6.2.1 Grid Search (fine-tune)
         + 6.2.2 Apply model to test set
-
-### Author
-For any queries, Derrick can be contacted at zchan012@e.ntu.edu.sg.
